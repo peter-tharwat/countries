@@ -1,6 +1,8 @@
-#List of all countries with (name,name_ar,dial_code,currency,iso2,iso3,is_arabian_country,is_khaliji_country,order)
-### example 
-`
+### List of all countries with (name,name_ar,dial_code,currency,iso2,iso3,is_arabian_country,is_khaliji_country,order)
+
+### example
+
+```php
 [
 	"name"=>"Egypt",
 	"name_ar"=>"مصر",
@@ -12,4 +14,4 @@
 	"is_khaliji_country"=>"0",
 	"order"=>0
 ]
-`
+```
