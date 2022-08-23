@@ -1,5 +1,5 @@
 <?php
-$countries = [
+    $countries = [
     [
         "name" => "Afghanistan",
         "name_ar" => "أفغانستان",
