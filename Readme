@@ -12,6 +12,8 @@
 	"iso3"=>"EGY",
 	"is_arabian_country"=>"1",
 	"is_khaliji_country"=>"0",
+	"flag"=>"🇪🇬",
 	"order"=>0
 ]
+
 ```
