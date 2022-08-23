@@ -1,7 +1,7 @@
 <?php
 $countries = [
     [
-        "name " => "Afghanistan",
+        "name" => "Afghanistan",
         "name_ar" => "أفغانستان",
         "dial_code" => "+93",
         "currency" => "AFN",
@@ -13,7 +13,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Albania",
+        "name" => "Albania",
         "name_ar" => "ألبانيا",
         "dial_code" => "+355",
         "currency" => "ALL",
@@ -25,7 +25,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Algeria",
+        "name" => "Algeria",
         "name_ar" => "الجزائر",
         "dial_code" => "+213",
         "currency" => "DZD",
@@ -37,7 +37,7 @@ $countries = [
         "order" => "13",
     ],
     [
-        "name " => "Andorra",
+        "name" => "Andorra",
         "name_ar" => "أندورا",
         "dial_code" => "+376",
         "currency" => "EUR",
@@ -49,7 +49,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Angola",
+        "name" => "Angola",
         "name_ar" => "أنغولا",
         "dial_code" => "+244",
         "currency" => "AOA",
@@ -61,7 +61,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Anguilla",
+        "name" => "Anguilla",
         "name_ar" => "أنغويلا",
         "dial_code" => "+1264",
         "currency" => "XCD",
@@ -73,7 +73,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Antigua and Barbuda",
+        "name" => "Antigua and Barbuda",
         "name_ar" => "أنتيغوا وبربودا",
         "dial_code" => "+1268",
         "currency" => "XCD",
@@ -85,7 +85,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Argentina",
+        "name" => "Argentina",
         "name_ar" => "الأرجنتين",
         "dial_code" => "+54",
         "currency" => "ARS",
@@ -97,7 +97,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Armenia",
+        "name" => "Armenia",
         "name_ar" => "أرمينيا",
         "dial_code" => "+374",
         "currency" => "AMD",
@@ -109,7 +109,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Aruba",
+        "name" => "Aruba",
         "name_ar" => "أروبا",
         "dial_code" => "+297",
         "currency" => "AWG",
@@ -121,7 +121,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Australia",
+        "name" => "Australia",
         "name_ar" => "أستراليا",
         "dial_code" => "+61",
         "currency" => "AUD",
@@ -133,7 +133,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Austria",
+        "name" => "Austria",
         "name_ar" => "النمسا",
         "dial_code" => "+43",
         "currency" => "EUR",
@@ -145,7 +145,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Azerbaijan",
+        "name" => "Azerbaijan",
         "name_ar" => "أذربيجان",
         "dial_code" => "+994",
         "currency" => "AZN",
@@ -157,7 +157,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bahamas",
+        "name" => "Bahamas",
         "name_ar" => "جزر البهاما",
         "dial_code" => "+1242",
         "currency" => "BSD",
@@ -169,7 +169,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bahrain",
+        "name" => "Bahrain",
         "name_ar" => "البحرين",
         "dial_code" => "+973",
         "currency" => "BHD",
@@ -181,7 +181,7 @@ $countries = [
         "order" => "20",
     ],
     [
-        "name " => "Bangladesh",
+        "name" => "Bangladesh",
         "name_ar" => "بنجلاديش",
         "dial_code" => "+880",
         "currency" => "BDT",
@@ -193,7 +193,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Barbados",
+        "name" => "Barbados",
         "name_ar" => "باربادوس",
         "dial_code" => "+1246",
         "currency" => "BBD",
@@ -205,7 +205,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Belarus",
+        "name" => "Belarus",
         "name_ar" => "بيلاروس",
         "dial_code" => "+375",
         "currency" => "BYR",
@@ -217,7 +217,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Belgium",
+        "name" => "Belgium",
         "name_ar" => "بلجيكا",
         "dial_code" => "+32",
         "currency" => "EUR",
@@ -229,7 +229,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Belize",
+        "name" => "Belize",
         "name_ar" => "بيليز",
         "dial_code" => "+501",
         "currency" => "BZD",
@@ -241,7 +241,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Benin",
+        "name" => "Benin",
         "name_ar" => "بنين",
         "dial_code" => "+229",
         "currency" => "XOF",
@@ -253,7 +253,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bermuda",
+        "name" => "Bermuda",
         "name_ar" => "برمودا",
         "dial_code" => "+1441",
         "currency" => "BMD",
@@ -265,7 +265,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bhutan",
+        "name" => "Bhutan",
         "name_ar" => "بوتان",
         "dial_code" => "+975",
         "currency" => "BTN",
@@ -277,7 +277,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bolivia",
+        "name" => "Bolivia",
         "name_ar" => "بوليفيا",
         "dial_code" => "+591",
         "currency" => "BOB",
@@ -289,7 +289,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bosnia and Herzegovina",
+        "name" => "Bosnia and Herzegovina",
         "name_ar" => "البوسنة والهرسك",
         "dial_code" => "+387",
         "currency" => "BAM",
@@ -301,7 +301,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Botswana",
+        "name" => "Botswana",
         "name_ar" => "بوتسوانا",
         "dial_code" => "+267",
         "currency" => "BWP",
@@ -313,7 +313,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Brazil",
+        "name" => "Brazil",
         "name_ar" => "البرازيل",
         "dial_code" => "+55",
         "currency" => "BRL",
@@ -325,7 +325,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "British Indian Ocean Territory",
+        "name" => "British Indian Ocean Territory",
         "name_ar" => "إقليم المحيط الهندي البريطاني",
         "dial_code" => "+246",
         "currency" => "USD",
@@ -337,7 +337,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Brunei",
+        "name" => "Brunei",
         "name_ar" => "بروناي",
         "dial_code" => "+673",
         "currency" => "BND",
@@ -349,7 +349,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Bulgaria",
+        "name" => "Bulgaria",
         "name_ar" => "بلغاريا",
         "dial_code" => "+359",
         "currency" => "BGN",
@@ -361,7 +361,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Burkina Faso",
+        "name" => "Burkina Faso",
         "name_ar" => "بوركينا فاسو",
         "dial_code" => "+226",
         "currency" => "XOF",
@@ -373,7 +373,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Myanmar",
+        "name" => "Myanmar",
         "name_ar" => "ميانمار",
         "dial_code" => "+95",
         "currency" => "MMK",
@@ -385,7 +385,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Burundi",
+        "name" => "Burundi",
         "name_ar" => "بوروندي",
         "dial_code" => "+257",
         "currency" => "BIF",
@@ -397,7 +397,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cambodia",
+        "name" => "Cambodia",
         "name_ar" => "كامبوديا",
         "dial_code" => "+855",
         "currency" => "KHR",
@@ -409,7 +409,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cameroon",
+        "name" => "Cameroon",
         "name_ar" => "الكاميرون",
         "dial_code" => "+237",
         "currency" => "XAF",
@@ -421,7 +421,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Canada",
+        "name" => "Canada",
         "name_ar" => "كندا",
         "dial_code" => "+1",
         "currency" => "CAD",
@@ -433,7 +433,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cape Verde",
+        "name" => "Cape Verde",
         "name_ar" => "الرأس الأخضر",
         "dial_code" => "+238",
         "currency" => "CVE",
@@ -445,7 +445,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cayman Islands",
+        "name" => "Cayman Islands",
         "name_ar" => "جزر كايمان",
         "dial_code" => "+1345",
         "currency" => "KYD",
@@ -457,7 +457,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Central African Republic",
+        "name" => "Central African Republic",
         "name_ar" => "جمهورية أفريقيا الوسطى",
         "dial_code" => "+236",
         "currency" => "XAF",
@@ -469,7 +469,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Chad",
+        "name" => "Chad",
         "name_ar" => "تشاد",
         "dial_code" => "+235",
         "currency" => "XAF",
@@ -481,7 +481,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Christmas Island",
+        "name" => "Christmas Island",
         "name_ar" => "جزيرة الكريسماس",
         "dial_code" => "+61",
         "currency" => "AUD",
@@ -493,7 +493,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cocos (Keeling) Islands",
+        "name" => "Cocos (Keeling) Islands",
         "name_ar" => "جزر الكوكوس (كيلين)",
         "dial_code" => "+61",
         "currency" => "AUD",
@@ -505,7 +505,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cook Islands",
+        "name" => "Cook Islands",
         "name_ar" => "جزر كوك",
         "dial_code" => "+682",
         "currency" => "NZD",
@@ -517,7 +517,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Chile",
+        "name" => "Chile",
         "name_ar" => "تشيلي",
         "dial_code" => "+56",
         "currency" => "CLP",
@@ -529,7 +529,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "China",
+        "name" => "China",
         "name_ar" => "الصين",
         "dial_code" => "+86",
         "currency" => "CNY",
@@ -541,7 +541,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Colombia",
+        "name" => "Colombia",
         "name_ar" => "كولومبيا",
         "dial_code" => "+57",
         "currency" => "COP",
@@ -553,7 +553,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Comoros",
+        "name" => "Comoros",
         "name_ar" => "جزر القمر",
         "dial_code" => "+269",
         "currency" => "KMF",
@@ -565,7 +565,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Congo",
+        "name" => "Congo",
         "name_ar" => "الكونغو",
         "dial_code" => "+242",
         "currency" => "XAF",
@@ -577,7 +577,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Costa Rica",
+        "name" => "Costa Rica",
         "name_ar" => "كوستاريكا",
         "dial_code" => "+506",
         "currency" => "CRC",
@@ -589,7 +589,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Croatia",
+        "name" => "Croatia",
         "name_ar" => "كرواتيا",
         "dial_code" => "+385",
         "currency" => "HRK",
@@ -601,7 +601,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cuba",
+        "name" => "Cuba",
         "name_ar" => "كوبا",
         "dial_code" => "+53",
         "currency" => "CUP",
@@ -613,7 +613,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Cyprus",
+        "name" => "Cyprus",
         "name_ar" => "قبرص",
         "dial_code" => "+357",
         "currency" => "EUR",
@@ -625,7 +625,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Czech Republic",
+        "name" => "Czech Republic",
         "name_ar" => "جمهورية التشيك",
         "dial_code" => "+420",
         "currency" => "CZK",
@@ -637,7 +637,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Denmark",
+        "name" => "Denmark",
         "name_ar" => "الدانمارك",
         "dial_code" => "+45",
         "currency" => "DKK",
@@ -649,7 +649,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Djibouti",
+        "name" => "Djibouti",
         "name_ar" => "جيبوتي",
         "dial_code" => "+253",
         "currency" => "DJF",
@@ -661,7 +661,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Dominica",
+        "name" => "Dominica",
         "name_ar" => "دومينيكا",
         "dial_code" => "+1767",
         "currency" => "XCD",
@@ -673,7 +673,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Dominican Republic",
+        "name" => "Dominican Republic",
         "name_ar" => "جمهورية الدومينيكان",
         "dial_code" => "+1849",
         "currency" => "DOP",
@@ -685,7 +685,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Timor-Leste",
+        "name" => "Timor-Leste",
         "name_ar" => "تيمور الشرقية",
         "dial_code" => "+670",
         "currency" => "USD",
@@ -697,7 +697,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Tokelau",
+        "name" => "Tokelau",
         "name_ar" => "توكيلاو",
         "dial_code" => "+690",
         "currency" => "NZD",
@@ -709,7 +709,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Turks and Caicos Islands",
+        "name" => "Turks and Caicos Islands",
         "name_ar" => "جزر تركس وكايكوس",
         "dial_code" => "+1649",
         "currency" => "USD",
@@ -721,7 +721,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Ecuador",
+        "name" => "Ecuador",
         "name_ar" => "إكوادور",
         "dial_code" => "+593",
         "currency" => "USD",
@@ -733,7 +733,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Egypt",
+        "name" => "Egypt",
         "name_ar" => "مصر",
         "dial_code" => "+20",
         "currency" => "EGP",
@@ -745,7 +745,7 @@ $countries = [
         "order" => "16",
     ],
     [
-        "name " => "El Salvador",
+        "name" => "El Salvador",
         "name_ar" => "السلفادور",
         "dial_code" => "+503",
         "currency" => "USD",
@@ -757,7 +757,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Equatorial Guinea",
+        "name" => "Equatorial Guinea",
         "name_ar" => "غينيا الاستوائية",
         "dial_code" => "+240",
         "currency" => "XAF",
@@ -769,7 +769,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Eritrea",
+        "name" => "Eritrea",
         "name_ar" => "إريتريا",
         "dial_code" => "+291",
         "currency" => "ERN",
@@ -781,7 +781,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Estonia",
+        "name" => "Estonia",
         "name_ar" => "إستونيا",
         "dial_code" => "+372",
         "currency" => "EUR",
@@ -793,7 +793,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Ethiopia",
+        "name" => "Ethiopia",
         "name_ar" => "إثيوبيا",
         "dial_code" => "+251",
         "currency" => "ETB",
@@ -805,7 +805,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Faroe Islands",
+        "name" => "Faroe Islands",
         "name_ar" => "جزر فايرو",
         "dial_code" => "+298",
         "currency" => "DKK",
@@ -817,7 +817,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Falkland Islands",
+        "name" => "Falkland Islands",
         "name_ar" => "جزر فوكلاند",
         "dial_code" => "+500",
         "currency" => "FKP",
@@ -829,7 +829,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Fiji",
+        "name" => "Fiji",
         "name_ar" => "جزر فيجي",
         "dial_code" => "+679",
         "currency" => "FJD",
@@ -841,7 +841,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Finland",
+        "name" => "Finland",
         "name_ar" => "فنلندا",
         "dial_code" => "+358",
         "currency" => "EUR",
@@ -853,7 +853,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "France",
+        "name" => "France",
         "name_ar" => "فرنسا",
         "dial_code" => "+33",
         "currency" => "EUR",
@@ -865,7 +865,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "French Polynesia",
+        "name" => "French Polynesia",
         "name_ar" => "بولينزيا الفرنسية",
         "dial_code" => "+689",
         "currency" => "XPF",
@@ -877,7 +877,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Gabon",
+        "name" => "Gabon",
         "name_ar" => "الجابون",
         "dial_code" => "+241",
         "currency" => "XAF",
@@ -889,7 +889,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Gambia",
+        "name" => "Gambia",
         "name_ar" => "جامبيا",
         "dial_code" => "+220",
         "currency" => "GMD",
@@ -901,7 +901,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Georgia",
+        "name" => "Georgia",
         "name_ar" => "جورجيا",
         "dial_code" => "+995",
         "currency" => "GEL",
@@ -913,7 +913,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Gibraltar",
+        "name" => "Gibraltar",
         "name_ar" => "جبل طارق",
         "dial_code" => "+350",
         "currency" => "GIP",
@@ -925,7 +925,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Germany",
+        "name" => "Germany",
         "name_ar" => "ألمانيا",
         "dial_code" => "+49",
         "currency" => "EUR",
@@ -937,7 +937,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Ghana",
+        "name" => "Ghana",
         "name_ar" => "غانا",
         "dial_code" => "+233",
         "currency" => "GHS",
@@ -949,7 +949,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Greece",
+        "name" => "Greece",
         "name_ar" => "اليونان",
         "dial_code" => "+30",
         "currency" => "EUR",
@@ -961,7 +961,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Greenland",
+        "name" => "Greenland",
         "name_ar" => "جرينلاند",
         "dial_code" => "+299",
         "currency" => "DKK",
@@ -973,7 +973,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guadeloupe",
+        "name" => "Guadeloupe",
         "name_ar" => "جواديلوب",
         "dial_code" => "+590",
         "currency" => "EUR",
@@ -985,7 +985,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Grenada",
+        "name" => "Grenada",
         "name_ar" => "غرينادا",
         "dial_code" => "+1473",
         "currency" => "XCD",
@@ -997,7 +997,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guernsey",
+        "name" => "Guernsey",
         "name_ar" => "جيرنزي",
         "dial_code" => "+44",
         "currency" => "GBP",
@@ -1009,7 +1009,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guatemala",
+        "name" => "Guatemala",
         "name_ar" => "جواتيمالا",
         "dial_code" => "+502",
         "currency" => "GTQ",
@@ -1021,7 +1021,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guam",
+        "name" => "Guam",
         "name_ar" => "جوام",
         "dial_code" => "+1671",
         "currency" => "USD",
@@ -1033,7 +1033,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guinea",
+        "name" => "Guinea",
         "name_ar" => "غينيا",
         "dial_code" => "+224",
         "currency" => "GNF",
@@ -1045,7 +1045,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guinea-Bissau",
+        "name" => "Guinea-Bissau",
         "name_ar" => "غينيا بيساو",
         "dial_code" => "+245",
         "currency" => "XOF",
@@ -1057,7 +1057,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Guyana",
+        "name" => "Guyana",
         "name_ar" => "جيانا",
         "dial_code" => "+592",
         "currency" => "GYD",
@@ -1069,7 +1069,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Haiti",
+        "name" => "Haiti",
         "name_ar" => "هايتي",
         "dial_code" => "+509",
         "currency" => "HTG",
@@ -1081,7 +1081,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Heard Island and McDonald Islands",
+        "name" => "Heard Island and McDonald Islands",
         "name_ar" => "جزيرة هيرد وجزر ماكدونالد",
         "dial_code" => "+ ",
         "currency" => "AUD",
@@ -1093,7 +1093,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Jordan",
+        "name" => "Jordan",
         "name_ar" => "الأردن",
         "dial_code" => "+962",
         "currency" => "JOD",
@@ -1105,7 +1105,7 @@ $countries = [
         "order" => "4",
     ],
     [
-        "name " => "Yemen",
+        "name" => "Yemen",
         "name_ar" => "اليمن",
         "dial_code" => "+967",
         "currency" => "YER",
@@ -1117,7 +1117,7 @@ $countries = [
         "order" => "3",
     ],
     [
-        "name " => "Honduras",
+        "name" => "Honduras",
         "name_ar" => "هندوراس",
         "dial_code" => "+504",
         "currency" => "HNL",
@@ -1129,7 +1129,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Hong Kong",
+        "name" => "Hong Kong",
         "name_ar" => "هونغ كونغ SAR",
         "dial_code" => "+852",
         "currency" => "HKD",
@@ -1141,7 +1141,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Hungary",
+        "name" => "Hungary",
         "name_ar" => "المجر",
         "dial_code" => "+36",
         "currency" => "HUF",
@@ -1153,7 +1153,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Iceland",
+        "name" => "Iceland",
         "name_ar" => "أيسلندا",
         "dial_code" => "+354",
         "currency" => "ISK",
@@ -1165,7 +1165,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "India",
+        "name" => "India",
         "name_ar" => "الهند",
         "dial_code" => "+91",
         "currency" => "INR",
@@ -1177,7 +1177,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Indonesia",
+        "name" => "Indonesia",
         "name_ar" => "إندونيسيا",
         "dial_code" => "+62",
         "currency" => "IDR",
@@ -1189,7 +1189,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Iran",
+        "name" => "Iran",
         "name_ar" => "إيران",
         "dial_code" => "+98",
         "currency" => "IRR",
@@ -1201,7 +1201,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Iraq",
+        "name" => "Iraq",
         "name_ar" => "العراق",
         "dial_code" => "+964",
         "currency" => "IQD",
@@ -1213,7 +1213,7 @@ $countries = [
         "order" => "6",
     ],
     [
-        "name " => "Ireland",
+        "name" => "Ireland",
         "name_ar" => "أيرلندا",
         "dial_code" => "+353",
         "currency" => "EUR",
@@ -1225,7 +1225,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Isle of Man",
+        "name" => "Isle of Man",
         "name_ar" => "جزيرة مان",
         "dial_code" => "+44",
         "currency" => "GBP",
@@ -1237,7 +1237,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Palestine",
+        "name" => "Palestine",
         "name_ar" => "فلسطين",
         "dial_code" => "+970",
         "currency" => "ILS",
@@ -1249,7 +1249,7 @@ $countries = [
         "order" => "7",
     ],
     [
-        "name " => "Israel",
+        "name" => "Israel",
         "name_ar" => "إسرائيل",
         "dial_code" => "+972",
         "currency" => "ILS",
@@ -1261,7 +1261,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Italy",
+        "name" => "Italy",
         "name_ar" => "إيطاليا",
         "dial_code" => "+39",
         "currency" => "EUR",
@@ -1273,7 +1273,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Ivory Coast",
+        "name" => "Ivory Coast",
         "name_ar" => "كوت ديفوار",
         "dial_code" => "+225",
         "currency" => "XOF",
@@ -1285,7 +1285,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Jamaica",
+        "name" => "Jamaica",
         "name_ar" => "جامايكا",
         "dial_code" => "+1876",
         "currency" => "JMD",
@@ -1297,7 +1297,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Jersey",
+        "name" => "Jersey",
         "name_ar" => "جيرسي",
         "dial_code" => "+44",
         "currency" => "GBP",
@@ -1309,7 +1309,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Japan",
+        "name" => "Japan",
         "name_ar" => "اليابان",
         "dial_code" => "+81",
         "currency" => "JPY",
@@ -1321,7 +1321,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Kazakhstan",
+        "name" => "Kazakhstan",
         "name_ar" => "كازاخستان",
         "dial_code" => "+7",
         "currency" => "KZT",
@@ -1333,7 +1333,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Kenya",
+        "name" => "Kenya",
         "name_ar" => "كينيا",
         "dial_code" => "+254",
         "currency" => "KES",
@@ -1345,7 +1345,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Kiribati",
+        "name" => "Kiribati",
         "name_ar" => "كيريباتي",
         "dial_code" => "+686",
         "currency" => "AUD",
@@ -1357,7 +1357,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "North Korea",
+        "name" => "North Korea",
         "name_ar" => "كوريا الشمالية",
         "dial_code" => "+850",
         "currency" => "KPW",
@@ -1369,7 +1369,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Kosovo",
+        "name" => "Kosovo",
         "name_ar" => "كوسوفو",
         "dial_code" => "+383",
         "currency" => "EUR",
@@ -1381,7 +1381,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Kuwait",
+        "name" => "Kuwait",
         "name_ar" => "الكويت",
         "dial_code" => "+965",
         "currency" => "KWD",
@@ -1393,7 +1393,7 @@ $countries = [
         "order" => "21",
     ],
     [
-        "name " => "Kyrgyzstan",
+        "name" => "Kyrgyzstan",
         "name_ar" => "قيرقيزستان",
         "dial_code" => "+996",
         "currency" => "KGS",
@@ -1405,7 +1405,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Laos",
+        "name" => "Laos",
         "name_ar" => "لاوس",
         "dial_code" => "+856",
         "currency" => "LAK",
@@ -1417,7 +1417,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Latvia",
+        "name" => "Latvia",
         "name_ar" => "لاتفيا",
         "dial_code" => "+371",
         "currency" => "EUR",
@@ -1429,7 +1429,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Lebanon",
+        "name" => "Lebanon",
         "name_ar" => "لبنان",
         "dial_code" => "+961",
         "currency" => "LBP",
@@ -1441,7 +1441,7 @@ $countries = [
         "order" => "5",
     ],
     [
-        "name " => "Lesotho",
+        "name" => "Lesotho",
         "name_ar" => "ليسوتو",
         "dial_code" => "+266",
         "currency" => "LSL",
@@ -1453,7 +1453,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Liberia",
+        "name" => "Liberia",
         "name_ar" => "ليبيريا",
         "dial_code" => "+231",
         "currency" => "LRD",
@@ -1465,7 +1465,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Libya",
+        "name" => "Libya",
         "name_ar" => "ليبيا",
         "dial_code" => "+218",
         "currency" => "LYD",
@@ -1477,7 +1477,7 @@ $countries = [
         "order" => "11",
     ],
     [
-        "name " => "Liechtenstein",
+        "name" => "Liechtenstein",
         "name_ar" => "لختنشتاين",
         "dial_code" => "+423",
         "currency" => "CHF",
@@ -1489,7 +1489,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Luxembourg",
+        "name" => "Luxembourg",
         "name_ar" => "لوكسمبورج",
         "dial_code" => "+352",
         "currency" => "EUR",
@@ -1501,7 +1501,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Macedonia",
+        "name" => "Macedonia",
         "name_ar" => "مقدونيا",
         "dial_code" => "+389",
         "currency" => "MKD",
@@ -1513,7 +1513,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Madagascar",
+        "name" => "Madagascar",
         "name_ar" => "مدغشقر",
         "dial_code" => "+261",
         "currency" => "MGA",
@@ -1525,7 +1525,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Marshall Islands",
+        "name" => "Marshall Islands",
         "name_ar" => "جزر مارشال",
         "dial_code" => "+692",
         "currency" => "USD",
@@ -1537,7 +1537,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Macau",
+        "name" => "Macau",
         "name_ar" => "ماكاو",
         "dial_code" => "+853",
         "currency" => "MOP",
@@ -1549,7 +1549,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Malawi",
+        "name" => "Malawi",
         "name_ar" => "مالاوي",
         "dial_code" => "+265",
         "currency" => "MWK",
@@ -1561,7 +1561,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Malaysia",
+        "name" => "Malaysia",
         "name_ar" => "ماليزيا",
         "dial_code" => "+60",
         "currency" => "MYR",
@@ -1573,7 +1573,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Maldives",
+        "name" => "Maldives",
         "name_ar" => "جزر المالديف",
         "dial_code" => "+960",
         "currency" => "MVR",
@@ -1585,7 +1585,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Mali",
+        "name" => "Mali",
         "name_ar" => "مالي",
         "dial_code" => "+223",
         "currency" => "XOF",
@@ -1597,7 +1597,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Malta",
+        "name" => "Malta",
         "name_ar" => "مالطا",
         "dial_code" => "+356",
         "currency" => "EUR",
@@ -1609,7 +1609,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Martinique",
+        "name" => "Martinique",
         "name_ar" => "مارتينيك",
         "dial_code" => "+596",
         "currency" => "EUR",
@@ -1621,7 +1621,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Mauritania",
+        "name" => "Mauritania",
         "name_ar" => "موريتانيا",
         "dial_code" => "+222",
         "currency" => "MRO",
@@ -1633,7 +1633,7 @@ $countries = [
         "order" => "15",
     ],
     [
-        "name " => "Mauritius",
+        "name" => "Mauritius",
         "name_ar" => "موريشيوس",
         "dial_code" => "+230",
         "currency" => "MUR",
@@ -1645,7 +1645,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Mayotte",
+        "name" => "Mayotte",
         "name_ar" => "مايوت",
         "dial_code" => "+262",
         "currency" => "EUR",
@@ -1657,7 +1657,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Mexico",
+        "name" => "Mexico",
         "name_ar" => "المكسيك",
         "dial_code" => "+52",
         "currency" => "MXN",
@@ -1669,7 +1669,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Moldova",
+        "name" => "Moldova",
         "name_ar" => "مولدوفا",
         "dial_code" => "+373",
         "currency" => "MDL",
@@ -1681,7 +1681,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Mongolia",
+        "name" => "Mongolia",
         "name_ar" => "منغوليا",
         "dial_code" => "+976",
         "currency" => "MNT",
@@ -1693,7 +1693,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Montenegro",
+        "name" => "Montenegro",
         "name_ar" => "مونتينيغرو",
         "dial_code" => "+382",
         "currency" => "EUR",
@@ -1705,7 +1705,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Monaco",
+        "name" => "Monaco",
         "name_ar" => "موناكو",
         "dial_code" => "+377",
         "currency" => "EUR",
@@ -1717,7 +1717,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Montserrat",
+        "name" => "Montserrat",
         "name_ar" => "مونتسيرات",
         "dial_code" => "+1664",
         "currency" => "XCD",
@@ -1729,7 +1729,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Morocco",
+        "name" => "Morocco",
         "name_ar" => "المغرب",
         "dial_code" => "+212",
         "currency" => "MAD",
@@ -1741,7 +1741,7 @@ $countries = [
         "order" => "14",
     ],
     [
-        "name " => "Mozambique",
+        "name" => "Mozambique",
         "name_ar" => "موزمبيق",
         "dial_code" => "+258",
         "currency" => "MZN",
@@ -1753,7 +1753,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Namibia",
+        "name" => "Namibia",
         "name_ar" => "ناميبيا",
         "dial_code" => "+264",
         "currency" => "NAD",
@@ -1765,7 +1765,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Nauru",
+        "name" => "Nauru",
         "name_ar" => "ناورو",
         "dial_code" => "+674",
         "currency" => "AUD",
@@ -1777,7 +1777,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Nepal",
+        "name" => "Nepal",
         "name_ar" => "نيبال",
         "dial_code" => "+977",
         "currency" => "NPR",
@@ -1789,7 +1789,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Netherlands",
+        "name" => "Netherlands",
         "name_ar" => "هولندا",
         "dial_code" => "+31",
         "currency" => "EUR",
@@ -1801,7 +1801,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "New Caledonia",
+        "name" => "New Caledonia",
         "name_ar" => "كاليدونيا الجديدة",
         "dial_code" => "+687",
         "currency" => "XPF",
@@ -1813,7 +1813,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "New Zealand",
+        "name" => "New Zealand",
         "name_ar" => "نيوزيلندا",
         "dial_code" => "+64",
         "currency" => "NZD",
@@ -1825,7 +1825,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Nicaragua",
+        "name" => "Nicaragua",
         "name_ar" => "نيكاراجوا",
         "dial_code" => "+505",
         "currency" => "NIO",
@@ -1837,7 +1837,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Niger",
+        "name" => "Niger",
         "name_ar" => "النيجر",
         "dial_code" => "+227",
         "currency" => "XOF",
@@ -1849,7 +1849,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Nigeria",
+        "name" => "Nigeria",
         "name_ar" => "نيجيريا",
         "dial_code" => "+234",
         "currency" => "NGN",
@@ -1861,7 +1861,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Norway",
+        "name" => "Norway",
         "name_ar" => "النرويج",
         "dial_code" => "+47",
         "currency" => "NOK",
@@ -1873,7 +1873,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Niue",
+        "name" => "Niue",
         "name_ar" => "نيوا",
         "dial_code" => "+683",
         "currency" => "NZD",
@@ -1885,7 +1885,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Norfolk Island",
+        "name" => "Norfolk Island",
         "name_ar" => "جزيرة نورفوك",
         "dial_code" => "+672",
         "currency" => "AUD",
@@ -1897,7 +1897,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Northern Mariana Islands",
+        "name" => "Northern Mariana Islands",
         "name_ar" => "جزر ماريانا الشمالية",
         "dial_code" => "+1670",
         "currency" => "USD",
@@ -1909,7 +1909,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Oman",
+        "name" => "Oman",
         "name_ar" => "عمان",
         "dial_code" => "+968",
         "currency" => "OMR",
@@ -1921,7 +1921,7 @@ $countries = [
         "order" => "17",
     ],
     [
-        "name " => "Pakistan",
+        "name" => "Pakistan",
         "name_ar" => "باكستان",
         "dial_code" => "+92",
         "currency" => "PKR",
@@ -1933,7 +1933,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Pitcairn",
+        "name" => "Pitcairn",
         "name_ar" => "جزر البتكارين",
         "dial_code" => "+870",
         "currency" => "NZD",
@@ -1945,7 +1945,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Palau",
+        "name" => "Palau",
         "name_ar" => "بالاو",
         "dial_code" => "+680",
         "currency" => "USD",
@@ -1957,7 +1957,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Panama",
+        "name" => "Panama",
         "name_ar" => "بنما",
         "dial_code" => "+507",
         "currency" => "PAB",
@@ -1969,7 +1969,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Papua New Guinea",
+        "name" => "Papua New Guinea",
         "name_ar" => "بابوا-غينيا الجديدة",
         "dial_code" => "+675",
         "currency" => "PGK",
@@ -1981,7 +1981,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Paraguay",
+        "name" => "Paraguay",
         "name_ar" => "باراجواي",
         "dial_code" => "+595",
         "currency" => "PYG",
@@ -1993,7 +1993,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Peru",
+        "name" => "Peru",
         "name_ar" => "بيرو",
         "dial_code" => "+51",
         "currency" => "PEN",
@@ -2005,7 +2005,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Philippines",
+        "name" => "Philippines",
         "name_ar" => "الفلبين",
         "dial_code" => "+63",
         "currency" => "PHP",
@@ -2017,7 +2017,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Poland",
+        "name" => "Poland",
         "name_ar" => "بولندا",
         "dial_code" => "+48",
         "currency" => "PLN",
@@ -2029,7 +2029,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Portugal",
+        "name" => "Portugal",
         "name_ar" => "البرتغال",
         "dial_code" => "+351",
         "currency" => "EUR",
@@ -2041,7 +2041,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Puerto Rico",
+        "name" => "Puerto Rico",
         "name_ar" => "بورتو ريكو",
         "dial_code" => "+1939",
         "currency" => "USD",
@@ -2053,7 +2053,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "South Korea",
+        "name" => "South Korea",
         "name_ar" => "كوريا",
         "dial_code" => "+82",
         "currency" => "KRW",
@@ -2065,7 +2065,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Lithuania",
+        "name" => "Lithuania",
         "name_ar" => "ليتوانيا",
         "dial_code" => "+370",
         "currency" => "LTL",
@@ -2077,7 +2077,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Qatar",
+        "name" => "Qatar",
         "name_ar" => "قطر",
         "dial_code" => "+974",
         "currency" => "QAR",
@@ -2089,7 +2089,7 @@ $countries = [
         "order" => "19",
     ],
     [
-        "name " => "Romania",
+        "name" => "Romania",
         "name_ar" => "رومانيا",
         "dial_code" => "+40",
         "currency" => "RON",
@@ -2101,7 +2101,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Russia",
+        "name" => "Russia",
         "name_ar" => "روسيا",
         "dial_code" => "+7",
         "currency" => "RUB",
@@ -2113,7 +2113,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Rwanda",
+        "name" => "Rwanda",
         "name_ar" => "رواندا",
         "dial_code" => "+250",
         "currency" => "RWF",
@@ -2125,7 +2125,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Réunion",
+        "name" => "Réunion",
         "name_ar" => "ريونيون",
         "dial_code" => "+262",
         "currency" => "EUR",
@@ -2137,7 +2137,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Samoa",
+        "name" => "Samoa",
         "name_ar" => "ساموا",
         "dial_code" => "+685",
         "currency" => "WST",
@@ -2149,7 +2149,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Saint Lucia",
+        "name" => "Saint Lucia",
         "name_ar" => "سانت لوشيا",
         "dial_code" => "+1758",
         "currency" => "XCD",
@@ -2161,7 +2161,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "San Marino",
+        "name" => "San Marino",
         "name_ar" => "سان مارينو",
         "dial_code" => "+378",
         "currency" => "EUR",
@@ -2173,7 +2173,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Saint Kitts and Nevis",
+        "name" => "Saint Kitts and Nevis",
         "name_ar" => "سانت كيتس ونيفيس",
         "dial_code" => "+1869",
         "currency" => "XCD",
@@ -2185,7 +2185,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Saint Pierre and Miquelon",
+        "name" => "Saint Pierre and Miquelon",
         "name_ar" => "سانت بيير وميكولون",
         "dial_code" => "+508",
         "currency" => "EUR",
@@ -2197,7 +2197,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Saint Vincent and the Grenadines",
+        "name" => "Saint Vincent and the Grenadines",
         "name_ar" => "سانت فينسنت وجرينادينز",
         "dial_code" => "+1784",
         "currency" => "XCD",
@@ -2209,7 +2209,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Saudi Arabia",
+        "name" => "Saudi Arabia",
         "name_ar" => "السعودية",
         "dial_code" => "+966",
         "currency" => "SAR",
@@ -2221,7 +2221,7 @@ $countries = [
         "order" => "22",
     ],
     [
-        "name " => "Senegal",
+        "name" => "Senegal",
         "name_ar" => "السنغال",
         "dial_code" => "+221",
         "currency" => "XOF",
@@ -2233,7 +2233,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "South Georgia and the South Sandwich Islands",
+        "name" => "South Georgia and the South Sandwich Islands",
         "name_ar" => "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
         "dial_code" => "+500",
         "currency" => "GBP",
@@ -2245,7 +2245,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Sao Tome and Principe",
+        "name" => "Sao Tome and Principe",
         "name_ar" => "ساوتوماي وبرينسيبا",
         "dial_code" => "+239",
         "currency" => "STD",
@@ -2257,7 +2257,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Sierra Leone",
+        "name" => "Sierra Leone",
         "name_ar" => "سيراليون",
         "dial_code" => "+232",
         "currency" => "SLL",
@@ -2269,7 +2269,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Serbia",
+        "name" => "Serbia",
         "name_ar" => "صربيا",
         "dial_code" => "+381",
         "currency" => "RSD",
@@ -2281,7 +2281,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Seychelles",
+        "name" => "Seychelles",
         "name_ar" => "سيشل",
         "dial_code" => "+248",
         "currency" => "SCR",
@@ -2293,7 +2293,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Singapore",
+        "name" => "Singapore",
         "name_ar" => "سنغافورة",
         "dial_code" => "+65",
         "currency" => "SGD",
@@ -2305,7 +2305,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Slovakia",
+        "name" => "Slovakia",
         "name_ar" => "سلوفاكيا",
         "dial_code" => "+421",
         "currency" => "EUR",
@@ -2317,7 +2317,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Slovenia",
+        "name" => "Slovenia",
         "name_ar" => "سلوفينيا",
         "dial_code" => "+386",
         "currency" => "EUR",
@@ -2329,7 +2329,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Solomon Islands",
+        "name" => "Solomon Islands",
         "name_ar" => "جزر سولومون",
         "dial_code" => "+677",
         "currency" => "SBD",
@@ -2341,7 +2341,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Somalia",
+        "name" => "Somalia",
         "name_ar" => "الصومال",
         "dial_code" => "+252",
         "currency" => "SOS",
@@ -2353,7 +2353,7 @@ $countries = [
         "order" => "9",
     ],
     [
-        "name " => "South Africa",
+        "name" => "South Africa",
         "name_ar" => "جنوب أفريقيا",
         "dial_code" => "+27",
         "currency" => "ZAR",
@@ -2365,7 +2365,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Spain",
+        "name" => "Spain",
         "name_ar" => "أسبانيا",
         "dial_code" => "+34",
         "currency" => "EUR",
@@ -2377,7 +2377,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Sri Lanka",
+        "name" => "Sri Lanka",
         "name_ar" => "سيريلانكا",
         "dial_code" => "+94",
         "currency" => "LKR",
@@ -2389,7 +2389,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Sudan",
+        "name" => "Sudan",
         "name_ar" => "السودان",
         "dial_code" => "+249",
         "currency" => "SDG",
@@ -2401,7 +2401,7 @@ $countries = [
         "order" => "10",
     ],
     [
-        "name " => "Suriname",
+        "name" => "Suriname",
         "name_ar" => "سورينام",
         "dial_code" => "+597",
         "currency" => "SRD",
@@ -2413,7 +2413,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Swaziland",
+        "name" => "Swaziland",
         "name_ar" => "سوازيلاند",
         "dial_code" => "+268",
         "currency" => "SZL",
@@ -2425,7 +2425,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Sweden",
+        "name" => "Sweden",
         "name_ar" => "السويد",
         "dial_code" => "+46",
         "currency" => "SEK",
@@ -2437,7 +2437,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Switzerland",
+        "name" => "Switzerland",
         "name_ar" => "سويسرا",
         "dial_code" => "+41",
         "currency" => "CHF",
@@ -2449,7 +2449,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Syria",
+        "name" => "Syria",
         "name_ar" => "سوريا",
         "dial_code" => "+963",
         "currency" => "SYP",
@@ -2461,7 +2461,7 @@ $countries = [
         "order" => "8",
     ],
     [
-        "name " => "Taiwan",
+        "name" => "Taiwan",
         "name_ar" => "تايوان",
         "dial_code" => "+886",
         "currency" => "TWD",
@@ -2473,7 +2473,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Tanzania",
+        "name" => "Tanzania",
         "name_ar" => "تنزانيا",
         "dial_code" => "+255",
         "currency" => "TZS",
@@ -2485,7 +2485,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Thailand",
+        "name" => "Thailand",
         "name_ar" => "تايلاند",
         "dial_code" => "+66",
         "currency" => "THB",
@@ -2497,7 +2497,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Togo",
+        "name" => "Togo",
         "name_ar" => "توجو",
         "dial_code" => "+228",
         "currency" => "XOF",
@@ -2509,7 +2509,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Tonga",
+        "name" => "Tonga",
         "name_ar" => "تونجا",
         "dial_code" => "+676",
         "currency" => "TOP",
@@ -2521,7 +2521,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Trinidad and Tobago",
+        "name" => "Trinidad and Tobago",
         "name_ar" => "ترينيداد وتوباجو",
         "dial_code" => "+1868",
         "currency" => "TTD",
@@ -2533,7 +2533,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Tunisia",
+        "name" => "Tunisia",
         "name_ar" => "تونس",
         "dial_code" => "+216",
         "currency" => "TND",
@@ -2545,7 +2545,7 @@ $countries = [
         "order" => "12",
     ],
     [
-        "name " => "Turkey",
+        "name" => "Turkey",
         "name_ar" => "تركيا",
         "dial_code" => "+90",
         "currency" => "TRY",
@@ -2557,7 +2557,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Turkmenistan",
+        "name" => "Turkmenistan",
         "name_ar" => "تركمانستان",
         "dial_code" => "+993",
         "currency" => "TMT",
@@ -2569,7 +2569,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Uganda",
+        "name" => "Uganda",
         "name_ar" => "أوغندا",
         "dial_code" => "+256",
         "currency" => "UGX",
@@ -2581,7 +2581,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "Ukraine",
+        "name" => "Ukraine",
         "name_ar" => "أوكرانيا",
         "dial_code" => "+380",
         "currency" => "UAH",
@@ -2593,7 +2593,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "United Arab Emirates",
+        "name" => "United Arab Emirates",
         "name_ar" => "الإمارات",
         "dial_code" => "+971",
         "currency" => "AED",
@@ -2605,7 +2605,7 @@ $countries = [
         "order" => "18",
     ],
     [
-        "name " => "United Kingdom",
+        "name" => "United Kingdom",
         "name_ar" => "المملكة المتحدة",
         "dial_code" => "+44",
         "currency" => "GBP",
@@ -2617,7 +2617,7 @@ $countries = [
         "order" => "0",
     ],
     [
-        "name " => "United States",
+        "name" => "United States",
         "name_ar" => "الولايات المتحدة",
         "dial_code" => "+1",
         "currency" => "USD",
