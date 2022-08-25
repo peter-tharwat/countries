@@ -1249,18 +1249,6 @@
         "order" => "7",
     ],
     [
-        "name" => "Israel",
-        "name_ar" => "إسرائيل",
-        "dial_code" => "+972",
-        "currency" => "ILS",
-        "iso2" => "IL",
-        "iso3" => "ISR",
-        "is_arabian_country" => "0",
-        "is_khaliji_country" => "0",
-        "flag" => "🇮🇱",
-        "order" => "0",
-    ],
-    [
         "name" => "Italy",
         "name_ar" => "إيطاليا",
         "dial_code" => "+39",
