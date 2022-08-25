@@ -1,4 +1,4 @@
-[
+[   
     {
         "name" : "Afghanistan",
         "name_ar" : "أفغانستان",
@@ -6,10 +6,10 @@
         "currency" : "AFN",
         "iso2" : "AF",
         "iso3" : "AFG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇫",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Albania",
@@ -18,10 +18,10 @@
         "currency" : "ALL",
         "iso2" : "AL",
         "iso3" : "ALB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Algeria",
@@ -30,10 +30,10 @@
         "currency" : "DZD",
         "iso2" : "DZ",
         "iso3" : "DZA",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇿",
-        "order" : "13"
+        "order" : 13
     },
     {
         "name" : "Andorra",
@@ -42,10 +42,10 @@
         "currency" : "EUR",
         "iso2" : "AD",
         "iso3" : "AND",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Angola",
@@ -54,10 +54,10 @@
         "currency" : "AOA",
         "iso2" : "AO",
         "iso3" : "AGO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Anguilla",
@@ -66,10 +66,10 @@
         "currency" : "XCD",
         "iso2" : "AI",
         "iso3" : "AIA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Antigua and Barbuda",
@@ -78,10 +78,10 @@
         "currency" : "XCD",
         "iso2" : "AG",
         "iso3" : "ATG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Argentina",
@@ -90,10 +90,10 @@
         "currency" : "ARS",
         "iso2" : "AR",
         "iso3" : "ARG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Armenia",
@@ -102,10 +102,10 @@
         "currency" : "AMD",
         "iso2" : "AM",
         "iso3" : "ARM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Aruba",
@@ -114,10 +114,10 @@
         "currency" : "AWG",
         "iso2" : "AW",
         "iso3" : "ABW",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Australia",
@@ -126,10 +126,10 @@
         "currency" : "AUD",
         "iso2" : "AU",
         "iso3" : "AUS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Austria",
@@ -138,10 +138,10 @@
         "currency" : "EUR",
         "iso2" : "AT",
         "iso3" : "AUT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Azerbaijan",
@@ -150,10 +150,10 @@
         "currency" : "AZN",
         "iso2" : "AZ",
         "iso3" : "AZE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇦🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bahamas",
@@ -162,10 +162,10 @@
         "currency" : "BSD",
         "iso2" : "BS",
         "iso3" : "BHS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bahrain",
@@ -174,10 +174,10 @@
         "currency" : "BHD",
         "iso2" : "BH",
         "iso3" : "BHR",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "1",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : true,
         "flag" : "🇧🇭",
-        "order" : "20"
+        "order" : 20
     },
     {
         "name" : "Bangladesh",
@@ -186,10 +186,10 @@
         "currency" : "BDT",
         "iso2" : "BD",
         "iso3" : "BGD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Barbados",
@@ -198,10 +198,10 @@
         "currency" : "BBD",
         "iso2" : "BB",
         "iso3" : "BRB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇧",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Belarus",
@@ -210,10 +210,10 @@
         "currency" : "BYR",
         "iso2" : "BY",
         "iso3" : "BLR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Belgium",
@@ -222,10 +222,10 @@
         "currency" : "EUR",
         "iso2" : "BE",
         "iso3" : "BEL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Belize",
@@ -234,10 +234,10 @@
         "currency" : "BZD",
         "iso2" : "BZ",
         "iso3" : "BLZ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Benin",
@@ -246,10 +246,10 @@
         "currency" : "XOF",
         "iso2" : "BJ",
         "iso3" : "BEN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇯",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bermuda",
@@ -258,10 +258,10 @@
         "currency" : "BMD",
         "iso2" : "BM",
         "iso3" : "BMU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bhutan",
@@ -270,10 +270,10 @@
         "currency" : "BTN",
         "iso2" : "BT",
         "iso3" : "BTN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bolivia",
@@ -282,10 +282,10 @@
         "currency" : "BOB",
         "iso2" : "BO",
         "iso3" : "BOL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bosnia and Herzegovina",
@@ -294,10 +294,10 @@
         "currency" : "BAM",
         "iso2" : "BA",
         "iso3" : "BIH",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Botswana",
@@ -306,10 +306,10 @@
         "currency" : "BWP",
         "iso2" : "BW",
         "iso3" : "BWA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Brazil",
@@ -318,10 +318,10 @@
         "currency" : "BRL",
         "iso2" : "BR",
         "iso3" : "BRA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "British Indian Ocean Territory",
@@ -330,10 +330,10 @@
         "currency" : "USD",
         "iso2" : "IO",
         "iso3" : "IOT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Brunei",
@@ -342,10 +342,10 @@
         "currency" : "BND",
         "iso2" : "BN",
         "iso3" : "BRN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Bulgaria",
@@ -354,10 +354,10 @@
         "currency" : "BGN",
         "iso2" : "BG",
         "iso3" : "BGR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Burkina Faso",
@@ -366,10 +366,10 @@
         "currency" : "XOF",
         "iso2" : "BF",
         "iso3" : "BFA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇫",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Myanmar",
@@ -378,10 +378,10 @@
         "currency" : "MMK",
         "iso2" : "MM",
         "iso3" : "MMR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Burundi",
@@ -390,10 +390,10 @@
         "currency" : "BIF",
         "iso2" : "BI",
         "iso3" : "BDI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇧🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cambodia",
@@ -402,10 +402,10 @@
         "currency" : "KHR",
         "iso2" : "KH",
         "iso3" : "KHM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cameroon",
@@ -414,10 +414,10 @@
         "currency" : "XAF",
         "iso2" : "CM",
         "iso3" : "CMR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Canada",
@@ -426,10 +426,10 @@
         "currency" : "CAD",
         "iso2" : "CA",
         "iso3" : "CAN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cape Verde",
@@ -438,10 +438,10 @@
         "currency" : "CVE",
         "iso2" : "CV",
         "iso3" : "CPV",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇻",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cayman Islands",
@@ -450,10 +450,10 @@
         "currency" : "KYD",
         "iso2" : "KY",
         "iso3" : "CYM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Central African Republic",
@@ -462,10 +462,10 @@
         "currency" : "XAF",
         "iso2" : "CF",
         "iso3" : "CAF",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇫",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Chad",
@@ -474,10 +474,10 @@
         "currency" : "XAF",
         "iso2" : "TD",
         "iso3" : "TCD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Christmas Island",
@@ -486,10 +486,10 @@
         "currency" : "AUD",
         "iso2" : "CX",
         "iso3" : "CXR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇽",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cocos (Keeling) Islands",
@@ -498,10 +498,10 @@
         "currency" : "AUD",
         "iso2" : "CC",
         "iso3" : "CCK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cook Islands",
@@ -510,10 +510,10 @@
         "currency" : "NZD",
         "iso2" : "CK",
         "iso3" : "COK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Chile",
@@ -522,10 +522,10 @@
         "currency" : "CLP",
         "iso2" : "CL",
         "iso3" : "CHL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "China",
@@ -534,10 +534,10 @@
         "currency" : "CNY",
         "iso2" : "CN",
         "iso3" : "CHN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Colombia",
@@ -546,10 +546,10 @@
         "currency" : "COP",
         "iso2" : "CO",
         "iso3" : "COL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Comoros",
@@ -558,10 +558,10 @@
         "currency" : "KMF",
         "iso2" : "KM",
         "iso3" : "COM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Congo",
@@ -570,10 +570,10 @@
         "currency" : "XAF",
         "iso2" : "CG",
         "iso3" : "COG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Costa Rica",
@@ -582,10 +582,10 @@
         "currency" : "CRC",
         "iso2" : "CR",
         "iso3" : "CRI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Croatia",
@@ -594,10 +594,10 @@
         "currency" : "HRK",
         "iso2" : "HR",
         "iso3" : "HRV",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cuba",
@@ -606,10 +606,10 @@
         "currency" : "CUP",
         "iso2" : "CU",
         "iso3" : "CUB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Cyprus",
@@ -618,10 +618,10 @@
         "currency" : "EUR",
         "iso2" : "CY",
         "iso3" : "CYP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Czech Republic",
@@ -630,10 +630,10 @@
         "currency" : "CZK",
         "iso2" : "CZ",
         "iso3" : "CZE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Denmark",
@@ -642,10 +642,10 @@
         "currency" : "DKK",
         "iso2" : "DK",
         "iso3" : "DNK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Djibouti",
@@ -654,10 +654,10 @@
         "currency" : "DJF",
         "iso2" : "DJ",
         "iso3" : "DJI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇯",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Dominica",
@@ -666,10 +666,10 @@
         "currency" : "XCD",
         "iso2" : "DM",
         "iso3" : "DMA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Dominican Republic",
@@ -678,10 +678,10 @@
         "currency" : "DOP",
         "iso2" : "DO",
         "iso3" : "DOM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Timor-Leste",
@@ -690,10 +690,10 @@
         "currency" : "USD",
         "iso2" : "TL",
         "iso3" : "TLS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Tokelau",
@@ -702,10 +702,10 @@
         "currency" : "NZD",
         "iso2" : "TK",
         "iso3" : "TKL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Turks and Caicos Islands",
@@ -714,10 +714,10 @@
         "currency" : "USD",
         "iso2" : "TC",
         "iso3" : "TCA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Ecuador",
@@ -726,10 +726,10 @@
         "currency" : "USD",
         "iso2" : "EC",
         "iso3" : "ECU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Egypt",
@@ -738,10 +738,10 @@
         "currency" : "EGP",
         "iso2" : "EG",
         "iso3" : "EGY",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇬",
-        "order" : "16"
+        "order" : 16
     },
     {
         "name" : "El Salvador",
@@ -750,10 +750,10 @@
         "currency" : "USD",
         "iso2" : "SV",
         "iso3" : "SLV",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇻",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Equatorial Guinea",
@@ -762,10 +762,10 @@
         "currency" : "XAF",
         "iso2" : "GQ",
         "iso3" : "GNQ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇶",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Eritrea",
@@ -774,10 +774,10 @@
         "currency" : "ERN",
         "iso2" : "ER",
         "iso3" : "ERI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Estonia",
@@ -786,10 +786,10 @@
         "currency" : "EUR",
         "iso2" : "EE",
         "iso3" : "EST",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Ethiopia",
@@ -798,10 +798,10 @@
         "currency" : "ETB",
         "iso2" : "ET",
         "iso3" : "ETH",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Faroe Islands",
@@ -810,10 +810,10 @@
         "currency" : "DKK",
         "iso2" : "FO",
         "iso3" : "FRO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇫🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Falkland Islands",
@@ -822,10 +822,10 @@
         "currency" : "FKP",
         "iso2" : "FK",
         "iso3" : "FLK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇫🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Fiji",
@@ -834,10 +834,10 @@
         "currency" : "FJD",
         "iso2" : "FJ",
         "iso3" : "FJI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇫🇯",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Finland",
@@ -846,10 +846,10 @@
         "currency" : "EUR",
         "iso2" : "FI",
         "iso3" : "FIN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇫🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "France",
@@ -858,10 +858,10 @@
         "currency" : "EUR",
         "iso2" : "FR",
         "iso3" : "FRA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇫🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "French Polynesia",
@@ -870,10 +870,10 @@
         "currency" : "XPF",
         "iso2" : "PF",
         "iso3" : "PYF",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇫",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Gabon",
@@ -882,10 +882,10 @@
         "currency" : "XAF",
         "iso2" : "GA",
         "iso3" : "GAB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Gambia",
@@ -894,10 +894,10 @@
         "currency" : "GMD",
         "iso2" : "GM",
         "iso3" : "GMB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Georgia",
@@ -906,10 +906,10 @@
         "currency" : "GEL",
         "iso2" : "GE",
         "iso3" : "GEO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Gibraltar",
@@ -918,10 +918,10 @@
         "currency" : "GIP",
         "iso2" : "GI",
         "iso3" : "GIB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Germany",
@@ -930,10 +930,10 @@
         "currency" : "EUR",
         "iso2" : "DE",
         "iso3" : "DEU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇩🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Ghana",
@@ -942,10 +942,10 @@
         "currency" : "GHS",
         "iso2" : "GH",
         "iso3" : "GHA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Greece",
@@ -954,10 +954,10 @@
         "currency" : "EUR",
         "iso2" : "GR",
         "iso3" : "GRC",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Greenland",
@@ -966,10 +966,10 @@
         "currency" : "DKK",
         "iso2" : "GL",
         "iso3" : "GRL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guadeloupe",
@@ -978,10 +978,10 @@
         "currency" : "EUR",
         "iso2" : "GP",
         "iso3" : "GLP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇵",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Grenada",
@@ -990,10 +990,10 @@
         "currency" : "XCD",
         "iso2" : "GD",
         "iso3" : "GRD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guernsey",
@@ -1002,10 +1002,10 @@
         "currency" : "GBP",
         "iso2" : "GG",
         "iso3" : "GGY",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guatemala",
@@ -1014,10 +1014,10 @@
         "currency" : "GTQ",
         "iso2" : "GT",
         "iso3" : "GTM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guam",
@@ -1026,10 +1026,10 @@
         "currency" : "USD",
         "iso2" : "GU",
         "iso3" : "GUM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guinea",
@@ -1038,10 +1038,10 @@
         "currency" : "GNF",
         "iso2" : "GN",
         "iso3" : "GIN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guinea-Bissau",
@@ -1050,10 +1050,10 @@
         "currency" : "XOF",
         "iso2" : "GW",
         "iso3" : "GNB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Guyana",
@@ -1062,10 +1062,10 @@
         "currency" : "GYD",
         "iso2" : "GY",
         "iso3" : "GUY",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Haiti",
@@ -1074,10 +1074,10 @@
         "currency" : "HTG",
         "iso2" : "HT",
         "iso3" : "HTI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Heard Island and McDonald Islands",
@@ -1086,10 +1086,10 @@
         "currency" : "AUD",
         "iso2" : "HM",
         "iso3" : "HMD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Jordan",
@@ -1098,10 +1098,10 @@
         "currency" : "JOD",
         "iso2" : "JO",
         "iso3" : "JOR",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇯🇴",
-        "order" : "4"
+        "order" : 4
     },
     {
         "name" : "Yemen",
@@ -1110,10 +1110,10 @@
         "currency" : "YER",
         "iso2" : "YE",
         "iso3" : "YEM",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇾🇪",
-        "order" : "3"
+        "order" : 3
     },
     {
         "name" : "Honduras",
@@ -1122,10 +1122,10 @@
         "currency" : "HNL",
         "iso2" : "HN",
         "iso3" : "HND",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Hong Kong",
@@ -1134,10 +1134,10 @@
         "currency" : "HKD",
         "iso2" : "HK",
         "iso3" : "HKG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Hungary",
@@ -1146,10 +1146,10 @@
         "currency" : "HUF",
         "iso2" : "HU",
         "iso3" : "HUN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇭🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Iceland",
@@ -1158,10 +1158,10 @@
         "currency" : "ISK",
         "iso2" : "IS",
         "iso3" : "ISL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "India",
@@ -1170,10 +1170,10 @@
         "currency" : "INR",
         "iso2" : "IN",
         "iso3" : "IND",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Indonesia",
@@ -1182,10 +1182,10 @@
         "currency" : "IDR",
         "iso2" : "ID",
         "iso3" : "IDN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Iran",
@@ -1194,10 +1194,10 @@
         "currency" : "IRR",
         "iso2" : "IR",
         "iso3" : "IRN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Iraq",
@@ -1206,10 +1206,10 @@
         "currency" : "IQD",
         "iso2" : "IQ",
         "iso3" : "IRQ",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇶",
-        "order" : "6"
+        "order" : 6
     },
     {
         "name" : "Ireland",
@@ -1218,10 +1218,10 @@
         "currency" : "EUR",
         "iso2" : "IE",
         "iso3" : "IRL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Isle of Man",
@@ -1230,10 +1230,10 @@
         "currency" : "GBP",
         "iso2" : "IM",
         "iso3" : "IMN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Palestine",
@@ -1242,10 +1242,10 @@
         "currency" : "ILS",
         "iso2" : "PS",
         "iso3" : "PSE",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇸",
-        "order" : "7"
+        "order" : 7
     },
     {
         "name" : "Israel",
@@ -1254,10 +1254,10 @@
         "currency" : "ILS",
         "iso2" : "IL",
         "iso3" : "ISR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Italy",
@@ -1266,10 +1266,10 @@
         "currency" : "EUR",
         "iso2" : "IT",
         "iso3" : "ITA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇮🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Ivory Coast",
@@ -1278,10 +1278,10 @@
         "currency" : "XOF",
         "iso2" : "CI",
         "iso3" : "CIV",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Jamaica",
@@ -1290,10 +1290,10 @@
         "currency" : "JMD",
         "iso2" : "JM",
         "iso3" : "JAM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇯🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Jersey",
@@ -1302,10 +1302,10 @@
         "currency" : "GBP",
         "iso2" : "JE",
         "iso3" : "JEY",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇯🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Japan",
@@ -1314,10 +1314,10 @@
         "currency" : "JPY",
         "iso2" : "JP",
         "iso3" : "JPN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇯🇵",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Kazakhstan",
@@ -1326,10 +1326,10 @@
         "currency" : "KZT",
         "iso2" : "KZ",
         "iso3" : "KAZ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Kenya",
@@ -1338,10 +1338,10 @@
         "currency" : "KES",
         "iso2" : "KE",
         "iso3" : "KEN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Kiribati",
@@ -1350,10 +1350,10 @@
         "currency" : "AUD",
         "iso2" : "KI",
         "iso3" : "KIR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "North Korea",
@@ -1362,10 +1362,10 @@
         "currency" : "KPW",
         "iso2" : "KP",
         "iso3" : "PRK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇵",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Kosovo",
@@ -1374,10 +1374,10 @@
         "currency" : "EUR",
         "iso2" : "XK",
         "iso3" : "XKX",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇽🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Kuwait",
@@ -1386,10 +1386,10 @@
         "currency" : "KWD",
         "iso2" : "KW",
         "iso3" : "KWT",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇼",
-        "order" : "21"
+        "order" : 21
     },
     {
         "name" : "Kyrgyzstan",
@@ -1398,10 +1398,10 @@
         "currency" : "KGS",
         "iso2" : "KG",
         "iso3" : "KGZ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Laos",
@@ -1410,10 +1410,10 @@
         "currency" : "LAK",
         "iso2" : "LA",
         "iso3" : "LAO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Latvia",
@@ -1422,10 +1422,10 @@
         "currency" : "EUR",
         "iso2" : "LV",
         "iso3" : "LVA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇻",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Lebanon",
@@ -1434,10 +1434,10 @@
         "currency" : "LBP",
         "iso2" : "LB",
         "iso3" : "LBN",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇧",
-        "order" : "5"
+        "order" : 5
     },
     {
         "name" : "Lesotho",
@@ -1446,10 +1446,10 @@
         "currency" : "LSL",
         "iso2" : "LS",
         "iso3" : "LSO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Liberia",
@@ -1458,10 +1458,10 @@
         "currency" : "LRD",
         "iso2" : "LR",
         "iso3" : "LBR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Libya",
@@ -1470,10 +1470,10 @@
         "currency" : "LYD",
         "iso2" : "LY",
         "iso3" : "LBY",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇾",
-        "order" : "11"
+        "order" : 11
     },
     {
         "name" : "Liechtenstein",
@@ -1482,10 +1482,10 @@
         "currency" : "CHF",
         "iso2" : "LI",
         "iso3" : "LIE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Luxembourg",
@@ -1494,10 +1494,10 @@
         "currency" : "EUR",
         "iso2" : "LU",
         "iso3" : "LUX",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Macedonia",
@@ -1506,10 +1506,10 @@
         "currency" : "MKD",
         "iso2" : "MK",
         "iso3" : "MKD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Madagascar",
@@ -1518,10 +1518,10 @@
         "currency" : "MGA",
         "iso2" : "MG",
         "iso3" : "MDG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Marshall Islands",
@@ -1530,10 +1530,10 @@
         "currency" : "USD",
         "iso2" : "MH",
         "iso3" : "MHL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Macau",
@@ -1542,10 +1542,10 @@
         "currency" : "MOP",
         "iso2" : "MO",
         "iso3" : "MAC",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Malawi",
@@ -1554,10 +1554,10 @@
         "currency" : "MWK",
         "iso2" : "MW",
         "iso3" : "MWI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Malaysia",
@@ -1566,10 +1566,10 @@
         "currency" : "MYR",
         "iso2" : "MY",
         "iso3" : "MYS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Maldives",
@@ -1578,10 +1578,10 @@
         "currency" : "MVR",
         "iso2" : "MV",
         "iso3" : "MDV",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇻",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Mali",
@@ -1590,10 +1590,10 @@
         "currency" : "XOF",
         "iso2" : "ML",
         "iso3" : "MLI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Malta",
@@ -1602,10 +1602,10 @@
         "currency" : "EUR",
         "iso2" : "MT",
         "iso3" : "MLT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Martinique",
@@ -1614,10 +1614,10 @@
         "currency" : "EUR",
         "iso2" : "MQ",
         "iso3" : "MTQ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇶",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Mauritania",
@@ -1626,10 +1626,10 @@
         "currency" : "MRO",
         "iso2" : "MR",
         "iso3" : "MRT",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇷",
-        "order" : "15"
+        "order" : 15
     },
     {
         "name" : "Mauritius",
@@ -1638,10 +1638,10 @@
         "currency" : "MUR",
         "iso2" : "MU",
         "iso3" : "MUS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Mayotte",
@@ -1650,10 +1650,10 @@
         "currency" : "EUR",
         "iso2" : "YT",
         "iso3" : "MYT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇾🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Mexico",
@@ -1662,10 +1662,10 @@
         "currency" : "MXN",
         "iso2" : "MX",
         "iso3" : "MEX",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇽",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Moldova",
@@ -1674,10 +1674,10 @@
         "currency" : "MDL",
         "iso2" : "MD",
         "iso3" : "MDA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇩",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Mongolia",
@@ -1686,10 +1686,10 @@
         "currency" : "MNT",
         "iso2" : "MN",
         "iso3" : "MNG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Montenegro",
@@ -1698,10 +1698,10 @@
         "currency" : "EUR",
         "iso2" : "ME",
         "iso3" : "MNE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Monaco",
@@ -1710,10 +1710,10 @@
         "currency" : "EUR",
         "iso2" : "MC",
         "iso3" : "MCO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Montserrat",
@@ -1722,10 +1722,10 @@
         "currency" : "XCD",
         "iso2" : "MS",
         "iso3" : "MSR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Morocco",
@@ -1734,10 +1734,10 @@
         "currency" : "MAD",
         "iso2" : "MA",
         "iso3" : "MAR",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇦",
-        "order" : "14"
+        "order" : 14
     },
     {
         "name" : "Mozambique",
@@ -1746,10 +1746,10 @@
         "currency" : "MZN",
         "iso2" : "MZ",
         "iso3" : "MOZ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Namibia",
@@ -1758,10 +1758,10 @@
         "currency" : "NAD",
         "iso2" : "NA",
         "iso3" : "NAM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Nauru",
@@ -1770,10 +1770,10 @@
         "currency" : "AUD",
         "iso2" : "NR",
         "iso3" : "NRU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Nepal",
@@ -1782,10 +1782,10 @@
         "currency" : "NPR",
         "iso2" : "NP",
         "iso3" : "NPL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇵",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Netherlands",
@@ -1794,10 +1794,10 @@
         "currency" : "EUR",
         "iso2" : "NL",
         "iso3" : "NLD",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "New Caledonia",
@@ -1806,10 +1806,10 @@
         "currency" : "XPF",
         "iso2" : "NC",
         "iso3" : "NCL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "New Zealand",
@@ -1818,10 +1818,10 @@
         "currency" : "NZD",
         "iso2" : "NZ",
         "iso3" : "NZL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Nicaragua",
@@ -1830,10 +1830,10 @@
         "currency" : "NIO",
         "iso2" : "NI",
         "iso3" : "NIC",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Niger",
@@ -1842,10 +1842,10 @@
         "currency" : "XOF",
         "iso2" : "NE",
         "iso3" : "NER",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Nigeria",
@@ -1854,10 +1854,10 @@
         "currency" : "NGN",
         "iso2" : "NG",
         "iso3" : "NGA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Norway",
@@ -1866,10 +1866,10 @@
         "currency" : "NOK",
         "iso2" : "NO",
         "iso3" : "NOR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Niue",
@@ -1878,10 +1878,10 @@
         "currency" : "NZD",
         "iso2" : "NU",
         "iso3" : "NIU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Norfolk Island",
@@ -1890,10 +1890,10 @@
         "currency" : "AUD",
         "iso2" : "NF",
         "iso3" : "NFK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇳🇫",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Northern Mariana Islands",
@@ -1902,10 +1902,10 @@
         "currency" : "USD",
         "iso2" : "MP",
         "iso3" : "MNP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇲🇵",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Oman",
@@ -1914,10 +1914,10 @@
         "currency" : "OMR",
         "iso2" : "OM",
         "iso3" : "OMN",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "1",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : true,
         "flag" : "🇴🇲",
-        "order" : "17"
+        "order" : 17
     },
     {
         "name" : "Pakistan",
@@ -1926,10 +1926,10 @@
         "currency" : "PKR",
         "iso2" : "PK",
         "iso3" : "PAK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Pitcairn",
@@ -1938,10 +1938,10 @@
         "currency" : "NZD",
         "iso2" : "PN",
         "iso3" : "PCN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Palau",
@@ -1950,10 +1950,10 @@
         "currency" : "USD",
         "iso2" : "PW",
         "iso3" : "PLW",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Panama",
@@ -1962,10 +1962,10 @@
         "currency" : "PAB",
         "iso2" : "PA",
         "iso3" : "PAN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Papua New Guinea",
@@ -1974,10 +1974,10 @@
         "currency" : "PGK",
         "iso2" : "PG",
         "iso3" : "PNG",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Paraguay",
@@ -1986,10 +1986,10 @@
         "currency" : "PYG",
         "iso2" : "PY",
         "iso3" : "PRY",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇾",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Peru",
@@ -1998,10 +1998,10 @@
         "currency" : "PEN",
         "iso2" : "PE",
         "iso3" : "PER",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Philippines",
@@ -2010,10 +2010,10 @@
         "currency" : "PHP",
         "iso2" : "PH",
         "iso3" : "PHL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Poland",
@@ -2022,10 +2022,10 @@
         "currency" : "PLN",
         "iso2" : "PL",
         "iso3" : "POL",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Portugal",
@@ -2034,10 +2034,10 @@
         "currency" : "EUR",
         "iso2" : "PT",
         "iso3" : "PRT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Puerto Rico",
@@ -2046,10 +2046,10 @@
         "currency" : "USD",
         "iso2" : "PR",
         "iso3" : "PRI",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "South Korea",
@@ -2058,10 +2058,10 @@
         "currency" : "KRW",
         "iso2" : "KR",
         "iso3" : "KOR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Lithuania",
@@ -2070,10 +2070,10 @@
         "currency" : "LTL",
         "iso2" : "LT",
         "iso3" : "LTU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Qatar",
@@ -2082,10 +2082,10 @@
         "currency" : "QAR",
         "iso2" : "QA",
         "iso3" : "QAT",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "1",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : true,
         "flag" : "🇶🇦",
-        "order" : "19"
+        "order" : 19
     },
     {
         "name" : "Romania",
@@ -2094,10 +2094,10 @@
         "currency" : "RON",
         "iso2" : "RO",
         "iso3" : "ROU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇷🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Russia",
@@ -2106,10 +2106,10 @@
         "currency" : "RUB",
         "iso2" : "RU",
         "iso3" : "RUS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇷🇺",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Rwanda",
@@ -2118,10 +2118,10 @@
         "currency" : "RWF",
         "iso2" : "RW",
         "iso3" : "RWA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇷🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Réunion",
@@ -2130,10 +2130,10 @@
         "currency" : "EUR",
         "iso2" : "RE",
         "iso3" : "REU",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇷🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Samoa",
@@ -2142,10 +2142,10 @@
         "currency" : "WST",
         "iso2" : "WS",
         "iso3" : "WSM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇼🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Saint Lucia",
@@ -2154,10 +2154,10 @@
         "currency" : "XCD",
         "iso2" : "LC",
         "iso3" : "LCA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "San Marino",
@@ -2166,10 +2166,10 @@
         "currency" : "EUR",
         "iso2" : "SM",
         "iso3" : "SMR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Saint Kitts and Nevis",
@@ -2178,10 +2178,10 @@
         "currency" : "XCD",
         "iso2" : "KN",
         "iso3" : "KNA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇰🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Saint Pierre and Miquelon",
@@ -2190,10 +2190,10 @@
         "currency" : "EUR",
         "iso2" : "PM",
         "iso3" : "SPM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇵🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Saint Vincent and the Grenadines",
@@ -2202,10 +2202,10 @@
         "currency" : "XCD",
         "iso2" : "VC",
         "iso3" : "VCT",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇻🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Saudi Arabia",
@@ -2214,10 +2214,10 @@
         "currency" : "SAR",
         "iso2" : "SA",
         "iso3" : "SAU",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "1",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : true,
         "flag" : "🇸🇦",
-        "order" : "22"
+        "order" : 22
     },
     {
         "name" : "Senegal",
@@ -2226,10 +2226,10 @@
         "currency" : "XOF",
         "iso2" : "SN",
         "iso3" : "SEN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇳",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "South Georgia and the South Sandwich Islands",
@@ -2238,10 +2238,10 @@
         "currency" : "GBP",
         "iso2" : "GS",
         "iso3" : "SGS",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Sao Tome and Principe",
@@ -2250,10 +2250,10 @@
         "currency" : "STD",
         "iso2" : "ST",
         "iso3" : "STP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Sierra Leone",
@@ -2262,10 +2262,10 @@
         "currency" : "SLL",
         "iso2" : "SL",
         "iso3" : "SLE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇱",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Serbia",
@@ -2274,10 +2274,10 @@
         "currency" : "RSD",
         "iso2" : "RS",
         "iso3" : "SRB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇷🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Seychelles",
@@ -2286,10 +2286,10 @@
         "currency" : "SCR",
         "iso2" : "SC",
         "iso3" : "SYC",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇨",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Singapore",
@@ -2298,10 +2298,10 @@
         "currency" : "SGD",
         "iso2" : "SG",
         "iso3" : "SGP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Slovakia",
@@ -2310,10 +2310,10 @@
         "currency" : "EUR",
         "iso2" : "SK",
         "iso3" : "SVK",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Slovenia",
@@ -2322,10 +2322,10 @@
         "currency" : "EUR",
         "iso2" : "SI",
         "iso3" : "SVN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇮",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Solomon Islands",
@@ -2334,10 +2334,10 @@
         "currency" : "SBD",
         "iso2" : "SB",
         "iso3" : "SLB",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇧",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Somalia",
@@ -2346,10 +2346,10 @@
         "currency" : "SOS",
         "iso2" : "SO",
         "iso3" : "SOM",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇴",
-        "order" : "9"
+        "order" : 9
     },
     {
         "name" : "South Africa",
@@ -2358,10 +2358,10 @@
         "currency" : "ZAR",
         "iso2" : "ZA",
         "iso3" : "ZAF",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇿🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Spain",
@@ -2370,10 +2370,10 @@
         "currency" : "EUR",
         "iso2" : "ES",
         "iso3" : "ESP",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇪🇸",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Sri Lanka",
@@ -2382,10 +2382,10 @@
         "currency" : "LKR",
         "iso2" : "LK",
         "iso3" : "LKA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇱🇰",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Sudan",
@@ -2394,10 +2394,10 @@
         "currency" : "SDG",
         "iso2" : "SD",
         "iso3" : "SDN",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇩",
-        "order" : "10"
+        "order" : 10
     },
     {
         "name" : "Suriname",
@@ -2406,10 +2406,10 @@
         "currency" : "SRD",
         "iso2" : "SR",
         "iso3" : "SUR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Swaziland",
@@ -2418,10 +2418,10 @@
         "currency" : "SZL",
         "iso2" : "SZ",
         "iso3" : "SWZ",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Sweden",
@@ -2430,10 +2430,10 @@
         "currency" : "SEK",
         "iso2" : "SE",
         "iso3" : "SWE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇪",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Switzerland",
@@ -2442,10 +2442,10 @@
         "currency" : "CHF",
         "iso2" : "CH",
         "iso3" : "CHE",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇨🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Syria",
@@ -2454,10 +2454,10 @@
         "currency" : "SYP",
         "iso2" : "SY",
         "iso3" : "SYR",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇸🇾",
-        "order" : "8"
+        "order" : 8
     },
     {
         "name" : "Taiwan",
@@ -2466,10 +2466,10 @@
         "currency" : "TWD",
         "iso2" : "TW",
         "iso3" : "TWN",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇼",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Tanzania",
@@ -2478,10 +2478,10 @@
         "currency" : "TZS",
         "iso2" : "TZ",
         "iso3" : "TZA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇿",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Thailand",
@@ -2490,10 +2490,10 @@
         "currency" : "THB",
         "iso2" : "TH",
         "iso3" : "THA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇭",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Togo",
@@ -2502,10 +2502,10 @@
         "currency" : "XOF",
         "iso2" : "TG",
         "iso3" : "TGO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Tonga",
@@ -2514,10 +2514,10 @@
         "currency" : "TOP",
         "iso2" : "TO",
         "iso3" : "TON",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇴",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Trinidad and Tobago",
@@ -2526,10 +2526,10 @@
         "currency" : "TTD",
         "iso2" : "TT",
         "iso3" : "TTO",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇹",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Tunisia",
@@ -2538,10 +2538,10 @@
         "currency" : "TND",
         "iso2" : "TN",
         "iso3" : "TUN",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇳",
-        "order" : "12"
+        "order" : 12
     },
     {
         "name" : "Turkey",
@@ -2550,10 +2550,10 @@
         "currency" : "TRY",
         "iso2" : "TR",
         "iso3" : "TUR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇷",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Turkmenistan",
@@ -2562,10 +2562,10 @@
         "currency" : "TMT",
         "iso2" : "TM",
         "iso3" : "TKM",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇹🇲",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Uganda",
@@ -2574,10 +2574,10 @@
         "currency" : "UGX",
         "iso2" : "UG",
         "iso3" : "UGA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇺🇬",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "Ukraine",
@@ -2586,10 +2586,10 @@
         "currency" : "UAH",
         "iso2" : "UA",
         "iso3" : "UKR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇺🇦",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "United Arab Emirates",
@@ -2598,10 +2598,10 @@
         "currency" : "AED",
         "iso2" : "AE",
         "iso3" : "ARE",
-        "is_arabian_country" : "1",
-        "is_khaliji_country" : "1",
+        "is_arabian_country" : true,
+        "is_khaliji_country" : true,
         "flag" : "🇦🇪",
-        "order" : "18"
+        "order" : 18
     },
     {
         "name" : "United Kingdom",
@@ -2610,10 +2610,10 @@
         "currency" : "GBP",
         "iso2" : "GB",
         "iso3" : "GBR",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇬🇧",
-        "order" : "0"
+        "order" : 0
     },
     {
         "name" : "United States",
@@ -2622,9 +2622,9 @@
         "currency" : "USD",
         "iso2" : "US",
         "iso3" : "USA",
-        "is_arabian_country" : "0",
-        "is_khaliji_country" : "0",
+        "is_arabian_country" : false,
+        "is_khaliji_country" : false,
         "flag" : "🇺🇸",
-        "order" : "0"
+        "order" : 0
     }
 ]
