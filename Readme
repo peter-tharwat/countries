@@ -2,7 +2,7 @@
 
 ###example
 
-```
+```php
 [
 	"name"=>"Egypt",
 	"name_ar"=>"مصر",
